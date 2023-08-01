@@ -4,6 +4,10 @@ A comprehensive collection of essential DevOps tools for development, deployment
 
 ✍️ Feel free to enhance the list of devops tools by submitting pull requests! Read the [contribution guidelines](https://github.com/techiescamp/devops-tools/blob/main/CONTRIBUTING.md) to know more. 
 
+## Hit the Star! :star:
+
+If you are planning to use this repo for reference, please hit the star. Thanks!
+
 ## Table of Contents
 
 1. [Development Environment Tools](#development-environment-tools)
