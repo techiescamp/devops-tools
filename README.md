@@ -130,7 +130,7 @@ Here are some of the leading tools in this category:
 * **[Terraform](https://www.terraform.io/)** (Open Source & Enterprise): Terraform is an open-source tool that allows you to define and provision a datacenter infrastructure using a declarative configuration language. It supports various cloud providers and offers an enterprise version with additional features.
 * **[Pulumi](https://www.pulumi.com/)** (Open Source & Enterprise): Pulumi provides a way to create, deploy, and manage infrastructure using programming languages you already know. It offers both open-source and enterprise solutions.
 * **[CloudFormation](https://aws.amazon.com/cloudformation/)** (AWS Service): An AWS service that helps you model and set up Amazon Web Services resources. It allows you to use a template to describe all the AWS resources you need, automating the provisioning process.
-* **[Azure Resource Manager](https://azure.microsoft.com/en-us/services/resource-manager/)** (Azure Service): Azure Resource Manager enables you to work with the resources in your solution as a group. You can deploy, update, or delete all the resources for your solution in a single, coordinated operation.
+* **[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)** (Azure Service): Azure Resource Manager enables you to work with the resources in your solution as a group. You can deploy, update, or delete all the resources for your solution in a single, coordinated operation.
 
 ## Configuration Management Tools
 
