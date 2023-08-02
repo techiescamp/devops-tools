@@ -132,6 +132,13 @@ Here are some of the leading tools in this category:
 * **[CloudFormation](https://aws.amazon.com/cloudformation/)** (AWS Service): An AWS service that helps you model and set up Amazon Web Services resources. It allows you to use a template to describe all the AWS resources you need, automating the provisioning process.
 * **[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)** (Azure Service): Azure Resource Manager enables you to work with the resources in your solution as a group. You can deploy, update, or delete all the resources for your solution in a single, coordinated operation.
 
+## Cloud Cost Management Tools
+
+Cloud Cost Management Tools help organizations monitor, analyze, and optimize their cloud spending. By providing insights into resource utilization and cost allocation, these tools enable better budgeting and cost control. Here's a list of tools that can be used for Cloud Cost Management:
+
+* **[InfraCost](https://www.infracost.io/)** (Open Source): InfraCost provides cost estimates for Terraform projects, helping developers understand the cost implications of their infrastructure code.
+* **[Kubecost](https://www.kubecost.com/)** (Open Source): Kubecost gives you visibility into your Kubernetes usage and cost, allowing you to monitor and optimize your cluster resources.
+
 ## Configuration Management Tools
 
 Configuration management tools are pivotal in both application and infrastructure deployment. They assist in managing the state of servers and applications, ensuring that configurations are applied consistently and idempotently. By automating these configurations, these tools enhance the reliability and efficiency of deployment processes.
