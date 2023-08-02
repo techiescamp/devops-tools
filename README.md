@@ -116,7 +116,7 @@ GitOps, a subset of DevOps, uses Git as a single source of truth for declarative
 * **[Argo CD](https://argoproj.github.io/argo-cd/)** (Open Source): A declarative, GitOps continuous delivery tool for Kubernetes.
 * **[Flux CD](https://fluxcd.io/)** (Open Source): A tool that automates the deployment of containers to Kubernetes, following the GitOps principles.
 * **[Go CD](https://www.gocd.org/)** (Open Source): An open-source continuous delivery server designed to model and visualize complex workflows.
-* **[Gitlab CD](https://docs.gitlab.com/ee/ci/)** (Enterprise): GitLab's continuous delivery solution, allowing automated deployment and monitoring of applications.
+* **[Gitlab CD](https://docs.gitlab.com/ee/ci/)** (Free & Enterprise): GitLab's continuous delivery solution, allowing automated deployment and monitoring of applications.
 * **[Weave GitOps](https://www.weave.works/oss/gitops/)** (Enterprise): An enterprise-grade GitOps solution, providing a set of best practices for deploying and managing applications and infrastructure.
 * **[Jenkins X](https://jenkins-x.io/)** (Open Source): An open-source project that provides automated CI/CD for Kubernetes, with preview environments and promotion across environments.
 * **[Tekton](https://tekton.dev/)** (Open Source): A powerful and flexible open-source framework for creating CI/CD systems, allowing developers to build, test, and deploy across cloud providers and on-premises systems.
