@@ -31,9 +31,8 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 - [Monitoring & Observability Tools](#monitoring--observability-tools)
 - [Visualization Tools](#visualization-tools)
 - [Internal Developer Platform Tools](#internal-developer-platform-tools)
+- [API Tools](#api-tools)
 - [Collaboration Tools](#collaboration-tools)
-
-
 
 
 ## Development Environment Tools
@@ -268,6 +267,15 @@ Platform engineering is becoming a core part of every organization that wants to
 * **[Cortex](https://www.cortex.dev/)** (Enterprise): An enterprise-grade platform that simplifies the deployment, scaling, and management of machine learning models.
 * **[Opslevel](https://www.opslevel.com/)** (Enterprise): A platform that provides insights and automation for your microservices and cloud resources.
 
+## API Tools
+
+* **[Postman](https://www.postman.com/)** (Free & Enterprise): A collaboration platform for API development.
+* **[Hopscotch](https://github.com/janlelis/hopscotch)** (Open Source): A framework to help make integration testing more enjoyable.
+* **[SoapUI](https://www.soapui.org/)** (Open Source & Enterprise): The world's leading automated testing tool for SOAP and REST APIs.
+* **[Swagger](https://swagger.io/)** (Open Source & Enterprise): A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing.
+* * **[HTTPie](https://github.com/httpie/cli)** (Open Source): HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible
+ 
+  * 
 ## Collaboration Tools
 
 The following are the collaboration tools that you could use in your DevOps toolchain. These tools support both messaging and video calling:
@@ -288,12 +296,6 @@ Following are the planning tools that you could use in your DevOps toolchain:
 * **[Backlog.com](https://backlog.com/)** (Free/Paid): A project management and collaboration tool for teams that want higher productivity.
 * **[Monday.com](https://monday.com/)** (Paid): A work operating system that powers teams to run projects and workflows with confidence.
 
-## API Tools
-
-* **[Postman](https://www.postman.com/)** (Free & Enterprise): A collaboration platform for API development.
-* **[Hopscotch](https://github.com/janlelis/hopscotch)** (Open Source): A framework to help make integration testing more enjoyable.
-* **[SoapUI](https://www.soapui.org/)** (Open Source & Enterprise): The world's leading automated testing tool for SOAP and REST APIs.
-* **[Swagger](https://swagger.io/)** (Open Source & Enterprise): A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing.
 
 ## IDE Tools
 
