@@ -102,7 +102,6 @@ Here are some notable tools in this category:
 
 * **[Sonarqube](https://www.sonarqube.org/)** (Free & Enterprise): SonarQube offers a comprehensive suite for continuous code quality inspection. It automates reviews with static code analysis to detect bugs, code smells, and security vulnerabilities.
 * **[Checkmarx](https://www.checkmarx.com/)** (Enterprise): Checkmarx is a leading solution in software security, adept at identifying, tracking, and rectifying both technical and logical security flaws in the source code.
-* **[Twistlock](https://www.paloaltonetworks.com/prisma/cloud)** (Enterprise): Twistlock is an innovator in container security. During runtime, Twistlock scans container images for known vulnerabilities in the software packages and libraries they contain. It's new name is Prisma Cloud.
 * **[Acunetix](https://www.acunetix.com/)** (Enterprise): Acunetix is a proprietary web vulnerability scanner capable of autonomously crawling and scanning web applications to identify diverse security concerns. It comes under DAST tools.
 * **[PMD](https://pmd.github.io/)** (Open Source): PMD is a versatile static code analyzer. It can detect a wide range of programming flaws across multiple languages.
 
@@ -207,6 +206,7 @@ Here are some of the leading tools in this category:
 * **[Notary](https://github.com/theupdateframework/notary)** (Open Source): A project that allows anyone to have trust over arbitrary collections of data.
 * **[Falco](https://falco.org/)** (Open Source): A behavioral activity monitor designed to detect anomalous activity in applications.
 * **[Trivy](https://github.com/aquasecurity/trivy)** (Open Source): A simple and comprehensive vulnerability scanner for containers.
+* **[Twistlock](https://www.paloaltonetworks.com/prisma/cloud)** (Enterprise): Twistlock is an innovator in container security. During runtime, Twistlock scans container images for known vulnerabilities in the software packages and libraries they contain. It's new name is Prisma Cloud.
 
 ## Policy Management Tools
 
