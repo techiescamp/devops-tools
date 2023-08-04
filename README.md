@@ -102,8 +102,8 @@ Here are some notable tools in this category:
 
 * **[Sonarqube](https://www.sonarqube.org/)** (Free & Enterprise): SonarQube offers a comprehensive suite for continuous code quality inspection. It automates reviews with static code analysis to detect bugs, code smells, and security vulnerabilities.
 * **[Checkmarx](https://www.checkmarx.com/)** (Enterprise): Checkmarx is a leading solution in software security, adept at identifying, tracking, and rectifying both technical and logical security flaws in the source code.
-* **[Acunetix](https://www.acunetix.com/)** (Enterprise): Acunetix is a proprietary web vulnerability scanner capable of autonomously crawling and scanning web applications to identify diverse security concerns. It comes under DAST tools.
 * **[PMD](https://pmd.github.io/)** (Open Source): PMD is a versatile static code analyzer. It can detect a wide range of programming flaws across multiple languages.
+* **[Acunetix](https://www.acunetix.com/)** (Enterprise): Acunetix is a proprietary web vulnerability scanner capable of autonomously crawling and scanning web applications to identify diverse security concerns. It comes under DAST tools.
 
 ## Continuous Delivery & GitOps Tools
 
