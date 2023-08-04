@@ -247,6 +247,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 * **[Riemann](http://riemann.io/)** (Open Source): A powerful stream processing language that helps you compose, test, and distribute data streams.
 * **[Nagios](https://www.nagios.org/)** (Free & Enterprise): A powerful monitoring system that enables organizations to identify and resolve IT infrastructure problems.
 * **[Zabbix](https://www.zabbix.com/)** (Open Source & Enterprise): An enterprise-class open-source distributed monitoring solution.
+* **[Middleware](https://middleware.io/)** (Free & Enterprise): A full-stack observability platform that offers a free developer account with all features and a paid plan for higher limits/usage.
 * **[Data Dog](https://www.datadoghq.com/)** (Enterprise): A monitoring and analytics platform for large-scale applications.
 * **[New Relic](https://newrelic.com/)** (Enterprise): A cloud-based platform that gives developers, engineers, operations, and management a clear view of what’s happening in today’s complex software environments.
 * **[App Dynamics](https://www.appdynamics.com/)** (Enterprise): An application performance management solution that uses machine learning and artificial intelligence to provide real-time visibility and insight into IT environments.
