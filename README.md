@@ -131,6 +131,10 @@ Here are some of the leading tools in this category:
 * **[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)** (Azure Service): Azure Resource Manager enables you to work with the resources in your solution as a group. You can deploy, update, or delete all the resources for your solution in a single, coordinated operation.
 * **[Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)** (Azure Service): Azure Bicep is a simple and user-friendly domain-specific language (DSL) for describing Azure cloud resources. It helps to create, deploy, and manage Azure resources more easily and efficiently compared to traditional ARM templates. Bicep simplifies the process by offering a cleaner and more concise syntax, making it quicker to write and maintain Azure infrastructure code.
 
+## Backups and Restoration Tools
+Backup and restoration tools helps in making periodic copies of data and applications to a separate, secondary device and then using those copies to recover the data and applications.
+
+* **[Velero](https://velero.io/)** (Open Source ): Velero is an open source tool to safely backup and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes.
 
 ## Cloud Cost Management Tools
 
@@ -161,6 +165,7 @@ Here are some popular secret management tools:
 * **[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)**: A service that helps you protect access to your applications, services, and IT resources without the upfront investment and on-going maintenance costs of operating your own infrastructure.
 * **[Google Cloud Secret Manager](https://cloud.google.com/secret-manager/)**: A fully managed service on Google Cloud Platform to handle sensitive data like API keys, passwords, and certificates. It provides robust security and convenient access controls.
 * **[Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)**: A cloud service provided by Microsoft to securely manage keys, secrets, and certificates.
+* **[1-Password](https://1password.com/)**: 1Password is a password manager developed by AgileBits Inc. Can store credentials and secrets file.
 
 ## Config/Service Discovery Tools
 
