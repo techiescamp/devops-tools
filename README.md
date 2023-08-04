@@ -323,7 +323,12 @@ Another important pillar in the CI/CD pipeline is test automation tools. The fol
 * **[Jmeter](https://jmeter.apache.org/)**: An open-source software to test performance both on static and dynamic resources.
 * **[Blazemeter](https://www.blazemeter.com/)**: A continuous testing platform for performance testing, monitoring, and more.
 
+## Centralized Documentation Management tools
 
+Documentation is an essential aspect of the DevOps culture, facilitating effective collaboration, knowledge management, and overall efficiency in the software development and delivery process. Here is the list of tools you might want to have a look at:
+
+* **[Confluence](https://www.atlassian.com/software/confluence)** (Free & Paid): A collaborative team workspace and wiki-based content management system developed by Atlassian. It is designed to facilitate team collaboration, knowledge sharing, and project documentation within organizations.
+* **[Clickup](https://clickup.com/)** (Paid): A cloud-based productivity and project management platform that supports document management. It helps teams collaborate, organize tasks, and streamline workflows, making it easy to store, organize, and collaborate on various documents and files.
 
 
 
