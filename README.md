@@ -57,6 +57,7 @@ In the DevOps world, everything is treated as code (e.g., code, shell script, co
 * **[AWS CodeCommit](https://aws.amazon.com/codecommit/)** (Free & Paid): A fully-managed source control service that makes it easy for companies hosting their own repositories to collaborate on code in a secure and highly scalable ecosystem.
 * **[Azure Repos](https://azure.microsoft.com/en-us/services/devops/repos/)** (Free & Paid): Provides Git repositories or Team Foundation Version Control (TFVC) for source control of your code.
 * **[Google Cloud Source Repositories](https://cloud.google.com/source-repositories)** (Free & Paid): Fully-featured, scalable, private Git repositories hosted on Google Cloud.
+* * **[Gitea](https://cloud.google.com/source-repositories)** (opensource): It is a forge software package for hosting software development version control using Git as well as other collaborative features like bug tracking, code review, continuous integration, kanban boards, tickets, and wikis. It supports self-hosting but also provides a free public first-party instance
 
 ## Build Tools
 
@@ -130,6 +131,7 @@ Here are some of the leading tools in this category:
 * **[CloudFormation](https://aws.amazon.com/cloudformation/)** (AWS Service): An AWS service that helps you model and set up Amazon Web Services resources. It allows you to use a template to describe all the AWS resources you need, automating the provisioning process.
 * **[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)** (Azure Service): Azure Resource Manager enables you to work with the resources in your solution as a group. You can deploy, update, or delete all the resources for your solution in a single, coordinated operation.
 * **[Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)** (Azure Service): Azure Bicep is a simple and user-friendly domain-specific language (DSL) for describing Azure cloud resources. It helps to create, deploy, and manage Azure resources more easily and efficiently compared to traditional ARM templates. Bicep simplifies the process by offering a cleaner and more concise syntax, making it quicker to write and maintain Azure infrastructure code.
+* * **[Crossplane](https://www.crossplane.io/)** (Open Source): It  has a highly extensible backend that enables you to orchestrate applications and infrastructure no matter where they run, and a highly configurable frontend that lets you define the declarative API it offers
 
 
 ## Cloud Cost Management Tools
