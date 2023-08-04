@@ -166,7 +166,6 @@ Here are some popular secret management tools:
 * **[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)**: A service that helps you protect access to your applications, services, and IT resources without the upfront investment and on-going maintenance costs of operating your own infrastructure.
 * **[Google Cloud Secret Manager](https://cloud.google.com/secret-manager/)**: A fully managed service on Google Cloud Platform to handle sensitive data like API keys, passwords, and certificates. It provides robust security and convenient access controls.
 * **[Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)**: A cloud service provided by Microsoft to securely manage keys, secrets, and certificates.
-* **[1-Password](https://1password.com/)**: 1Password is a password manager developed by AgileBits Inc. Can store credentials and secrets file.
 
 ## Config/Service Discovery Tools
 
