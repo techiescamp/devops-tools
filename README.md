@@ -129,6 +129,8 @@ Here are some of the leading tools in this category:
 * **[Pulumi](https://www.pulumi.com/)** (Open Source & Enterprise): Pulumi provides a way to create, deploy, and manage infrastructure using programming languages you already know. It offers both open-source and enterprise solutions.
 * **[CloudFormation](https://aws.amazon.com/cloudformation/)** (AWS Service): An AWS service that helps you model and set up Amazon Web Services resources. It allows you to use a template to describe all the AWS resources you need, automating the provisioning process.
 * **[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)** (Azure Service): Azure Resource Manager enables you to work with the resources in your solution as a group. You can deploy, update, or delete all the resources for your solution in a single, coordinated operation.
+* **[Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)** (Azure Service): Azure Bicep is a simple and user-friendly domain-specific language (DSL) for describing Azure cloud resources. It helps to create, deploy, and manage Azure resources more easily and efficiently compared to traditional ARM templates. Bicep simplifies the process by offering a cleaner and more concise syntax, making it quicker to write and maintain Azure infrastructure code.
+
 
 ## Cloud Cost Management Tools
 
