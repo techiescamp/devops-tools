@@ -287,7 +287,7 @@ Platform engineering is becoming a core part of every organization that wants to
 ## API Tools
 
 * **[Postman](https://www.postman.com/)** (Free & Enterprise): A collaboration platform for API development.
-* **[Hopscotch](https://github.com/janlelis/hopscotch)** (Open Source): A framework to help make integration testing more enjoyable.
+* **[Hoppscotch](https://hoppscotch.io/)** (Open Source): Open-source API development Ecosystem.
 * **[SoapUI](https://www.soapui.org/)** (Open Source & Enterprise): The world's leading automated testing tool for SOAP and REST APIs.
 * **[Swagger](https://swagger.io/)** (Open Source & Enterprise): A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing.
 * **[HTTPie](https://github.com/httpie/cli)** (Open Source): HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible
