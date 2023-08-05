@@ -33,6 +33,7 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 - [Internal Developer Platform Tools](#internal-developer-platform-tools)
 - [API Tools](#api-tools)
 - [Collaboration Tools](#collaboration-tools)
+- [Backups and Restoration Tools](#backups-and-restoration-tools)
 
 
 ## Development Environment Tools
@@ -46,6 +47,9 @@ Development environment tools are essential for maintaining consistency in softw
 * **[Minikube](https://minikube.sigs.k8s.io/)** (Open Source): A tool that makes it easy to run Kubernetes locally.
 * **[Minishift](https://www.okd.io/minishift/)** (Open Source): A tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM.
 * **[Podman Desktop](https://podman.io/)** (Open Source): A daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
+* **[Rancher Desktop](https://rancherdesktop.io/)** (Open Source): Rancher Desktop is a tool that enables developers to manage and deploy Kubernetes clusters effortlessly on their local machines.
+* **[kind](https://kind.sigs.k8s.io/)** (Open Source): kind is a tool that uses Docker containers as nodes to facilitate the creation of local Kubernetes cluster primarly used for local development and testing.
+* **[k3d](https://k3d.io/)** (Open Source): k3d is a lightweight wrapper to run k3s in Docker and makes it easy to create single and multi-node k3s clusters.
 
 ## Source Code Management
 
@@ -144,6 +148,8 @@ Here are some of the leading tools in this category:
 Backup and restoration tools helps in making periodic copies of data and applications to a separate, secondary device and then using those copies to recover the data and applications.
 
 * **[Velero](https://velero.io/)** (Open Source ): Velero is an open source tool to safely backup and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes.
+* **[Kasten K10](https://www.kasten.io/)** (Free & Enterprise): Kasten K10 is a data management platform that provides robust Kubernetes backup and disaster recovery solutions for seamless containerized application deployment and data protection.
+* **[Cloudcasa](https://cloudcasa.io/)** (Free & Enterprise): CloudCasa is a cloud-native backup and disaster recovery solution designed to protect and manage data for Kubernetes applications seamlessly.
 
 ## Cloud Cost Management Tools
 
@@ -174,6 +180,7 @@ Here are some popular secret management tools:
 * **[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)**: A service that helps you protect access to your applications, services, and IT resources without the upfront investment and on-going maintenance costs of operating your own infrastructure.
 * **[Google Cloud Secret Manager](https://cloud.google.com/secret-manager/)**: A fully managed service on Google Cloud Platform to handle sensitive data like API keys, passwords, and certificates. It provides robust security and convenient access controls.
 * **[Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)**: A cloud service provided by Microsoft to securely manage keys, secrets, and certificates.
+* **[Teller](https://tlr.dev/)** (Open Source): Teller is a secret management tool for developers enhancing productivity by supporting cloud-native applications and managing secrets across multiple cloud providers.
 
 ## Config/Service Discovery Tools
 
@@ -208,6 +215,7 @@ Here are some of the leading tools in this category:
 * **[Kubernetes](https://kubernetes.io/)** (Open Source): Kubernetes is the de facto standard in container orchestration. It automates the deployment, scaling, and management of containerized applications across clusters of hosts.
 * **[OpenShift](https://www.openshift.com/)** (Open Source & Enterprise): OpenShift is a Kubernetes-based container platform that provides developer and operational tools. It extends Kubernetes by adding features such as a web console, monitoring, logging, and more.
 * **[Nomad](https://www.nomadproject.io/)** (Open Source & Enterprise): Nomad is a flexible and easy-to-use orchestrator to deploy and manage containers and non-containerized applications. It integrates seamlessly with popular DevOps tools and provides a lightweight solution for container orchestration.
+* **[k3s](https://k3s.io/)** (Open Source): k3s is a certified Kubernetes distribution which is highly available and designed for resource-constrained production workloads.
 
 ## Container Security Tools
 
