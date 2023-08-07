@@ -89,6 +89,7 @@ Continuous Integration provides continuous feedback on code integrations, helpin
 * **[Github Actions](https://github.com/features/actions)** (Free & Enterprise): A CI/CD solution that integrates with GitHub repositories to run a series of commands automatically.
 * **[Gitlab CI](https://docs.gitlab.com/ee/ci/)** (Free & Enterprise): A continuous integration service included with GitLab that builds and tests the software whenever the developer pushes code to the application. YAML-based pipelines. Can be self-hosted or use the cloud offering.
 * **[Jenkins](https://www.jenkins.io/)** (Open Source): An open-source automation server, helping to automate parts of the build, test, and deployment process. Java-based, with Groovy-based pipeline definition.
+* **[RazorOps CICD](https://razorops.com/)** (Free & Paid): YAML-based CI/CD that is container-first SaaS cloud version and On-Prems with large Enterprise.
 * **[TeamCity](https://www.jetbrains.com/teamcity/)** (Free & Enterprise): A build management and continuous integration server from JetBrains.
 * **[Travis CI](https://travis-ci.org/)** (Open Source): A cloud-based continuous integration service that automatically builds and tests code changes in GitHub repositories.
 
