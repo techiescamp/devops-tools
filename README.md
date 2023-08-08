@@ -347,6 +347,7 @@ Another important pillar in the CI/CD pipeline is test automation tools. The fol
 * **[Appium](http://appium.io/)**: An open-source tool for automating native, mobile web, and hybrid applications.
 * **[Jmeter](https://jmeter.apache.org/)**: An open-source software to test performance both on static and dynamic resources.
 * **[Blazemeter](https://www.blazemeter.com/)**: A continuous testing platform for performance testing, monitoring, and more.
+* **[Tosca](https://www.tricentis.com/products/automate-continuous-testing-tosca)**: A software testing tool that leverages the TOSCA standard. Tricentis Tosca is an enterprise-level, continuous testing platform that uses model-based test automation to enable accelerated testing.
 
 ## Centralized Documentation Management tools
 
