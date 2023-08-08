@@ -82,16 +82,16 @@ Build tools are essential for automating package creation or deployable artifact
 
 Continuous Integration provides continuous feedback on code integrations, helping solve issues faster and decreasing time in software release cycles.
 
-* **[Bamboo](https://www.atlassian.com/software/bamboo)** (Free & Enterprise): A continuous integration and deployment tool that ties automated builds, tests, and releases together in a single workflow.
-* **[Buildkite](https://buildkite.com/)** (Free & Paid): YAML-based CI/CD.
-* **[CircleCI](https://circleci.com/)** (Free & Paid): YAML-based CI/CD hosted in the cloud.
-* **[Drone](https://www.drone.io/)** (Free & Paid): YAML-based CI/CD that is container-first. Can self-host or use the cloud version.
+* **[Jenkins](https://www.jenkins.io/)** (Open Source): An open-source automation server, helps to automate parts of the build, test, and deployment process. Java-based, with Groovy-based pipeline definition.
 * **[Github Actions](https://github.com/features/actions)** (Free & Enterprise): A CI/CD solution that integrates with GitHub repositories to run a series of commands automatically.
 * **[Gitlab CI](https://docs.gitlab.com/ee/ci/)** (Free & Enterprise): A continuous integration service included with GitLab that builds and tests the software whenever the developer pushes code to the application. YAML-based pipelines. Can be self-hosted or use the cloud offering.
-* **[Jenkins](https://www.jenkins.io/)** (Open Source): An open-source automation server, helping to automate parts of the build, test, and deployment process. Java-based, with Groovy-based pipeline definition.
-* **[RazorOps CICD](https://razorops.com/)** (Free & Paid): YAML-based CI/CD that is container-first SaaS cloud version and On-Prems with large Enterprise.
+* **[CircleCI](https://circleci.com/)** (Free & Paid): YAML-based CI/CD hosted in the cloud.
+* **[Drone](https://www.drone.io/)** (Free & Paid): YAML-based CI/CD that is container-first. Can self-host or use the cloud version.
 * **[TeamCity](https://www.jetbrains.com/teamcity/)** (Free & Enterprise): A build management and continuous integration server from JetBrains.
 * **[Travis CI](https://travis-ci.org/)** (Open Source): A cloud-based continuous integration service that automatically builds and tests code changes in GitHub repositories.
+* **[Bamboo](https://www.atlassian.com/software/bamboo)** (Free & Enterprise): A continuous integration and deployment tool that ties automated builds, tests, and releases together in a single workflow.
+* **[RazorOps CICD](https://razorops.com/)** (Free & Paid): YAML-based CI/CD that is container-first SaaS cloud version and On-Prems with large Enterprise.
+* **[Buildkite](https://buildkite.com/)** (Free & Paid): YAML-based CI/CD.
 
 ## Artifact Management Tools
 
