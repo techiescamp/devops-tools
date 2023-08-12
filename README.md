@@ -34,6 +34,7 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 - [API Tools](#api-tools)
 - [Collaboration Tools](#collaboration-tools)
 - [Backups and Restoration Tools](#backups-and-restoration-tools)
+- [Cloud Providers](#cloud-providers)
 
 
 ## Development Environment Tools
@@ -356,9 +357,12 @@ Documentation is an essential aspect of the DevOps culture, facilitating effecti
 * **[Confluence](https://www.atlassian.com/software/confluence)** (Free & Paid): A collaborative team workspace and wiki-based content management system developed by Atlassian. It is designed to facilitate team collaboration, knowledge sharing, and project documentation within organizations.
 * **[Clickup](https://clickup.com/)** (Paid): A cloud-based productivity and project management platform that supports document management. It helps teams collaborate, organize tasks, and streamline workflows, making it easy to store, organize, and collaborate on various documents and files.
 
+## Cloud Providers
 
+Cloud service provider is an information technology (IT) company that provides its customers with computing resources over the internet and delivers them on-demand. CSPs are well-suited for organizations and individuals who don’t want the responsibility of installing software, hardware or network resources — and maintaining them until the end of their life cycles.
 
-
-
-
-
+* **[AWS](https://aws.amazon.com/what-is-aws/?tag=zd-buy-button-20&ascsubtag=562e79c5abd747da9bae194058a83395%7C70d884bc-9915-4d12-a556-f163e55b789b%7Cdtp)**: World’s most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally.
+* **[Microsoft Azure](https://azure.microsoft.com/en-us/?ranMID=24542&ranEAID=IokOf8qagZo&ranSiteID=IokOf8qagZo-guCnXD6ZPOcQ_KmYuaJ8vQ&epi=IokOf8qagZo-guCnXD6ZPOcQ_KmYuaJ8vQ&irgwc=1&OCID=AIDcmm549zy227_aff_7593_1243925&tduid=%28ir__snsycwhcbgkfd3nmh1j3kz3w0n2xeqhvfdev32mm00%29%287593%29%281243925%29%28IokOf8qagZo-guCnXD6ZPOcQ_KmYuaJ8vQ%29%28%29&irclickid=_snsycwhcbgkfd3nmh1j3kz3w0n2xeqhvfdev32mm00)**: The Azure cloud platform is more than 200 products and cloud services designed to help you bring new solutions to life.
+* **[Google Cloud Platform](https://cloud.google.com/?hl=en)** (GCP): A suite of cloud computing services offered by Google. Its technical offerings range from infrastructure and platform services to computing power and database hosting.
+* **[IBM](https://www.ibm.com/cloud)**: It has one of the most in-depth and highly developed portfolios of enterprise solutions of any provider across the tech sector. As a cloud provider, it has a global footprint offering its IaaS and PaaS solutions from data centers from all over the world.
+* **[Oracle](https://www.oracle.com/cloud/)**: It specializes in developing and marketing computer hardware systems and enterprise-grade software products. It offers a wide range of cloud-based database solutions including its own database-as-a-service offering.
