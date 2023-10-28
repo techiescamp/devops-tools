@@ -93,6 +93,7 @@ Continuous Integration provides continuous feedback on code integrations, helpin
 * **[Bamboo](https://www.atlassian.com/software/bamboo)** (Free & Enterprise): A continuous integration and deployment tool that ties automated builds, tests, and releases together in a single workflow.
 * **[RazorOps CICD](https://razorops.com/)** (Free & Paid): YAML-based CI/CD that is container-first SaaS cloud version and On-Prems with large Enterprise.
 * **[Buildkite](https://buildkite.com/)** (Free & Paid): YAML-based CI/CD.
+* **[GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud)** (Paid): Blazing-fast execution layer for GitLab CI/CD pipeline jobs, offering per-second billing and k8s API for runner management.
 
 ## Artifact Management Tools
 
