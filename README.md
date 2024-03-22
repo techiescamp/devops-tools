@@ -75,6 +75,8 @@ Build tools are essential for automating package creation or deployable artifact
 * **[Maven](https://maven.apache.org/)** (Java) (Open Source): A software project management and comprehension tool, primarily used for Java projects.
 * **[Gradle](https://gradle.org/)** (Java, Kotlin, Groovy, Scala, Python, C++) (Free & Paid): An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven.
 * **[npm](https://www.npmjs.com/)** (Javascript): A package manager for JavaScript, used to install, share, and distribute code.
+* **[pnpm](https://pnpm.io/)** (Open Source): A fast, disk space efficient package manager for JavaScript.
+* **[yarn](https://yarnpkg.com/)** (Open Source): A fast, reliable, and secure dependency manager for JavaScript and TypeScript.
 * **[Rake](https://ruby.github.io/rake/)** (Ruby) (Open Source): A software task management and build automation tool for Ruby.
 * **[MSBuild](https://github.com/dotnet/msbuild)** (.Net) (Open Source): The build platform for .NET and Visual Studio.
 * **[Pybuilder](https://pybuilder.io/)** (Python) (Open Source): A software build tool written in pure Python mainly for Python applications.
@@ -321,6 +323,7 @@ Following are the planning tools that you could use in your DevOps toolchain:
 * **[Asana](https://asana.com/)** (Free/Paid): A web and mobile application designed to help teams organize, track, and manage their work.
 * **[Backlog.com](https://backlog.com/)** (Free/Paid): A project management and collaboration tool for teams that want higher productivity.
 * **[Monday.com](https://monday.com/)** (Paid): A work operating system that powers teams to run projects and workflows with confidence.
+* **[ClickUp](https://clickup.com/)** (Free/Paid): A cloud-based productivity and project management platform that supports document management. It helps teams collaborate, organize tasks, and streamline workflows, making it easy to store, organize, and collaborate on various documents and files.
 
 
 ## IDE Tools
