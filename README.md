@@ -293,7 +293,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 Platform engineering is becoming a core part of every organization that wants to adopt DevOps. Internal developer platforms or IDP tools play a key part in platform engineering. The following are the key tools that can be used for IDP:
 
 * **[Backstage.io by Spotify](https://backstage.io/)** (Open Source): An open platform for building developer portals, providing a unified frontend for all your infrastructure tooling, services, and documentation.
-* **[Port.io](https://port.io/)** (Free & Enterprise): A platform that enables teams to build, test, and deploy applications with ease.
+* **[Port.io](https://www.getport.io/)** (Free & Enterprise): A platform that enables teams to build, test, and deploy applications with ease.
 * **[Configure8](https://www.configure8.com/)** (Free & Paid): A platform that provides a unified interface for managing infrastructure as code.
 * **[Cortex](https://www.cortex.dev/)** (Enterprise): An enterprise-grade platform that simplifies the deployment, scaling, and management of machine learning models.
 * **[Opslevel](https://www.opslevel.com/)** (Enterprise): A platform that provides insights and automation for your microservices and cloud resources.
