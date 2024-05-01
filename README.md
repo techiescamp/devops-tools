@@ -220,6 +220,7 @@ Here are some of the leading tools in this category:
 
 * **[Kubernetes](https://kubernetes.io/)** (Open Source): Kubernetes is the de facto standard in container orchestration. It automates the deployment, scaling, and management of containerized applications across clusters of hosts.
 * **[OpenShift](https://www.openshift.com/)** (Open Source & Enterprise): OpenShift is a Kubernetes-based container platform that provides developer and operational tools. It extends Kubernetes by adding features such as a web console, monitoring, logging, and more.
+* **[Cycle.io](https://cycle.io/)** (Free & Paid & Enterprise) A DevOps platform designed for building platforms, and is an alternative to Kubernetes. It natively supports container orchestration, monitoring, load-balancing, and more across multi-cloud and on-prem infrastructure.
 * **[Nomad](https://www.nomadproject.io/)** (Open Source & Enterprise): Nomad is a flexible and easy-to-use orchestrator to deploy and manage containers and non-containerized applications. It integrates seamlessly with popular DevOps tools and provides a lightweight solution for container orchestration.
 * **[k3s](https://k3s.io/)** (Open Source): k3s is a certified Kubernetes distribution which is highly available and designed for resource-constrained production workloads.
 
