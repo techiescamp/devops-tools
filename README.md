@@ -231,8 +231,8 @@ Here are some of the leading tools in this category:
 
 Here’s a list of open-source tools for container autoscaling and load balancing:
 
-* **[KEDA](https://keda.sh/)** (Kubernetes Event-driven Autoscaling) - Automatically scales Kubernetes workloads based on external events.
-* **[MetalLB](https://metallb.universe.tf/)** -  A load balancer implementation for bare-metal Kubernetes clusters.
+* **[KEDA](https://keda.sh/)** (Open Source): (Kubernetes Event-driven Autoscaling) - Automatically scales Kubernetes workloads based on external events.
+* **[MetalLB](https://metallb.universe.tf/)** (Open Source): -  A load balancer implementation for bare-metal Kubernetes clusters.
 
 ## Container Security Tools
 
