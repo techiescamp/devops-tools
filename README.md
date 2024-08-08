@@ -1,8 +1,12 @@
-# Curated List of DevOps Tools
+# Curated List of Best DevOps Tools for 2024
 
-A comprehensive collection of essential DevOps tools for development, deployment, monitoring, and more.
+A curated collection of the most effective and popular DevOps tools to streamline your development and operations processes for 2024
 
-✍️ Feel free to enhance the list of devops tools by submitting pull requests! Read the [contribution guidelines](https://github.com/techiescamp/devops-tools/blob/main/CONTRIBUTING.md) to know more. 
+This repository aims to provide a comprehensive list of DevOps tools, along with brief descriptions. Whether you're new to DevOps or looking to optimize your existing workflow, you'll find valuable resources here.
+
+## Contributing
+
+✍️ We welcome contributions! If you know of a great DevOps tool that's not listed here, please submit a pull request with your addition.! Read the [contribution guidelines](https://github.com/techiescamp/devops-tools/blob/main/CONTRIBUTING.md) to know more. 
 
 ## Hit the Star! :star:
 
@@ -24,6 +28,7 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 - [Config/Service Discovery Tools](#configservice-discovery-tools)
 - [Containerization Tools](#containerization-tools)
 - [Container Orchestration Tools](#container-orchestration-tools)
+- [Container Autoscaling and Load Balancing](#container-autoscaling-and-load-balancing)
 - [Container Security Tools](#container-security-tools)
 - [Policy Management Tools](#policy-management-tools)
 - [Service Mesh Tools](#service-mesh-tools)
@@ -35,7 +40,6 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 - [Collaboration Tools](#collaboration-tools)
 - [Backups and Restoration Tools](#backups-and-restoration-tools)
 - [Cloud Providers](#cloud-providers)
-
 
 ## Development Environment Tools
 
@@ -222,6 +226,13 @@ Here are some of the leading tools in this category:
 * **[OpenShift](https://www.openshift.com/)** (Open Source & Enterprise): OpenShift is a Kubernetes-based container platform that provides developer and operational tools. It extends Kubernetes by adding features such as a web console, monitoring, logging, and more.
 * **[Nomad](https://www.nomadproject.io/)** (Open Source & Enterprise): Nomad is a flexible and easy-to-use orchestrator to deploy and manage containers and non-containerized applications. It integrates seamlessly with popular DevOps tools and provides a lightweight solution for container orchestration.
 * **[k3s](https://k3s.io/)** (Open Source): k3s is a certified Kubernetes distribution which is highly available and designed for resource-constrained production workloads.
+
+## Container Autoscaling and Load Balancing
+
+Here’s a list of open-source tools for container autoscaling and load balancing:
+
+* **[KEDA](https://keda.sh/)** (Kubernetes Event-driven Autoscaling) - Automatically scales Kubernetes workloads based on external events.
+* **[MetalLB](https://metallb.universe.tf/)** -  A load balancer implementation for bare-metal Kubernetes clusters.
 
 ## Container Security Tools
 
