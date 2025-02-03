@@ -295,7 +295,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 * **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)** (Open Source): An Open Source alert investigation assistant capable of solving alerts like a human. Works with Prometheus alerts, Jira tickets and more.
 
 ## Visualization Tools
-
+* **[Kanvas](https://kanvas.new/)** (Open Source & Enterprise): A collaborative tool with visual interface for designing and operating infrastructure.
 * **[Grafana](https://grafana.com/)** (Open Source & Enterprise): A leading open-source platform for monitoring and observability, allowing you to query, visualize, alert on, and understand your metrics.
 * **[Kibana](https://www.elastic.co/kibana)** (Open Source & Enterprise): A free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack.
 * **[Tableau](https://www.tableau.com/)** (Enterprise): A leading data visualization and business intelligence platform that helps people see and understand their data.
