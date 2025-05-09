@@ -252,6 +252,7 @@ Policy Management Tools enable organizations to define, enforce, and manage secu
 * **[Open Policy Agent](https://www.openpolicyagent.org/)** (Open Source): A general-purpose policy engine that unifies policy enforcement across the stack.
 * **[Kyverno](https://kyverno.io/)** (Open Source): A policy engine designed for Kubernetes, providing validation, mutation, and generation of configurations.
 * **[Cloud Custodian](https://cloudcustodian.io/)** (Open Source): A rules engine for managing public cloud accounts and resources.
+* **[TerraForce](https://terraforce.henrybravo.nl)** - A policy enforcement tool for Terraform with seamless CI/CD integration for DevOps workflows, lifecycle policy checks and flexible policy definitions using Go templates and YAML.
 
 ## Service Mesh Tools
 
