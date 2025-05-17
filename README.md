@@ -121,6 +121,7 @@ Code analysis can be categorized into two types:
 
 Here are some notable tools in this category:
 
+* **[Cyber Chief](https://www.CyberChief.ai)** (Free & Enterprise): Cyber Chief helps software teams fix security risks before releasing to prod, from their CI/CD pipelines. It automates security testing for web apps, containers, cloud platforms (CSPM) and APIs - plus also allows you to fix vulnerabilities in your dependencies and packages. 
 * **[Sonarqube](https://www.sonarqube.org/)** (Free & Enterprise): SonarQube offers a comprehensive suite for continuous code quality inspection. It automates reviews with static code analysis to detect bugs, code smells, and security vulnerabilities.
 * **[Checkmarx](https://www.checkmarx.com/)** (Enterprise): Checkmarx is a leading solution in software security, adept at identifying, tracking, and rectifying both technical and logical security flaws in the source code.
 * **[PMD](https://pmd.github.io/)** (Open Source): PMD is a versatile static code analyzer. It can detect a wide range of programming flaws across multiple languages.
