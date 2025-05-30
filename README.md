@@ -243,6 +243,7 @@ Here’s a list of open-source tools for container autoscaling and load balancin
 * **[Notary](https://github.com/theupdateframework/notary)** (Open Source): A project that allows anyone to have trust over arbitrary collections of data.
 * **[Falco](https://falco.org/)** (Open Source): A behavioral activity monitor designed to detect anomalous activity in applications.
 * **[Trivy](https://github.com/aquasecurity/trivy)** (Open Source): A simple and comprehensive vulnerability scanner for containers.
+* **[Vulert](https://Vulert.com/)** (Free & Enterprise): Vulert secures software by monitoring containers and alerting about vulnerabilities in Docker images — without any installation, utilizing just Docker Compose files
 * **[Twistlock](https://www.paloaltonetworks.com/prisma/cloud)** (Enterprise): Twistlock is an innovator in container security. During runtime, Twistlock scans container images for known vulnerabilities in the software packages and libraries they contain. It's new name is Prisma Cloud.
 
 ## Policy Management Tools
