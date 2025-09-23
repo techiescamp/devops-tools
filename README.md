@@ -107,6 +107,7 @@ Artifact management tools store and version code/binary that has to be deployed 
 
 * **[Nexus](https://www.sonatype.com/nexus/repository-oss)** (Free & Enterprise): A repository manager that allows you to proxy, collect, and manage your dependencies.
 * **[Jfrog Artifactory](https://jfrog.com/artifactory/)** (Enterprise): An enterprise-grade universal binary repository manager solution that could handle end-to-end artifact management.
+* **[Buildstash](https://buildstash.com/)** (Paid): Software binaries and release management platform, with artifact management, CI/CD integrations, integrated beta distribution, and deployment.
 * **[npm](https://www.npmjs.com/)** (Free): A package manager for JavaScript, used to install, share, and distribute code.
 * **[Nuget](https://www.nuget.org/)** (.Net) (Free): A free and open-source package manager for the Microsoft development platform.
 
