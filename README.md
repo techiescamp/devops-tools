@@ -49,6 +49,7 @@ Development environment tools are essential for maintaining consistency in softw
 * **[Qemu](https://www.qemu.org/)** (Open Source): A generic and open source machine emulator and virtualizer.
 * **[Vagrant](https://www.vagrantup.com/)** (Open Source): A tool for building and managing virtual machine environments in a single workflow.
 * **[Docker Desktop](https://www.docker.com/products/docker-desktop)** (Open Source): An application for MacOS and Windows machines for the building and sharing of containerized applications.
+* **[Dorothy](https://github.com/Charlie85270/Dorothy)** (Open Source): An open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 * **[Minikube](https://minikube.sigs.k8s.io/)** (Open Source): A tool that makes it easy to run Kubernetes locally.
 * **[Minishift](https://www.okd.io/minishift/)** (Open Source): A tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM.
 * **[Podman Desktop](https://podman.io/)** (Open Source): A daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
