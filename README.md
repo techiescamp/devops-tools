@@ -293,6 +293,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 * **[Sumologic](https://www.sumologic.com/)** (Enterprise): A cloud-native, machine data analytics platform that delivers real-time, continuous intelligence.
 * **[Dynatrace](https://www.dynatrace.com/)** (Enterprise): An AI-powered, full-stack, automated performance management solution.
 * **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)** (Open Source): An Open Source alert investigation assistant capable of solving alerts like a human. Works with Prometheus alerts, Jira tickets and more.
+* **[KubeStellar Console](https://console.kubestellar.io)** (Open Source): Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project.
 
 ## Visualization Tools
 
