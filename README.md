@@ -167,6 +167,7 @@ Cloud Cost Management Tools help organizations monitor, analyze, and optimize th
 
 * **[InfraCost](https://www.infracost.io/)** (Open Source): InfraCost provides cost estimates for Terraform projects, helping developers understand the cost implications of their infrastructure code.
 * **[Kubecost](https://www.kubecost.com/)** (Open Source): Kubecost gives you visibility into your Kubernetes usage and cost, allowing you to monitor and optimize your cluster resources.
+* **[OpenCost](https://www.opencost.io/)** (Open Source): A CNCF project that provides real-time cost monitoring for Kubernetes workloads. Supports AWS, GCP, and Azure, and integrates with Prometheus for cost visibility across namespaces, deployments, and pods.
 
 ## Configuration Management Tools
 
