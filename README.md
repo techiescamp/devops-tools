@@ -55,6 +55,7 @@ Development environment tools are essential for maintaining consistency in softw
 * **[Rancher Desktop](https://rancherdesktop.io/)** (Open Source): Rancher Desktop is a tool that enables developers to manage and deploy Kubernetes clusters effortlessly on their local machines.
 * **[kind](https://kind.sigs.k8s.io/)** (Open Source): kind is a tool that uses Docker containers as nodes to facilitate the creation of local Kubernetes cluster primarly used for local development and testing.
 * **[k3d](https://k3d.io/)** (Open Source): k3d is a lightweight wrapper to run k3s in Docker and makes it easy to create single and multi-node k3s clusters.
+* **[Nexus Shell](https://nexusshell.app/en/)** (Free & Paid): A native macOS SSH workspace with multi-tab terminals, SFTP file management, SSH key management, Docker controls, and server monitoring.
 
 ## Source Code Management
 
