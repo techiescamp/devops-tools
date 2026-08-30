@@ -362,6 +362,7 @@ Bug and issue-tracking tools are a must for any team dealing with code. Here is 
 
 Another important pillar in the CI/CD pipeline is test automation tools. The following are the automation/performance testing tools that top our list:
 
+* **[Agent QA](https://github.com/vostride/agent-qa)** (Source Available): A CLI and MCP tool that runs natural-language web and mobile test scenarios, retains execution evidence, and adapts to UI changes. Licensed under FSL-1.1-ALv2, with each release converting to Apache-2.0 after two years.
 * **[Selenium](https://www.selenium.dev/)**: A suite of tools to automate web browsers.
 * **[UFT](https://software.microfocus.com/software/uft)**: Unified Functional Testing tool for automated functional testing.
 * **[Appium](http://appium.io/)**: An open-source tool for automating native, mobile web, and hybrid applications.
