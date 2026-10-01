@@ -226,6 +226,7 @@ Here are some of the leading tools in this category:
 * **[OpenShift](https://www.openshift.com/)** (Open Source & Enterprise): OpenShift is a Kubernetes-based container platform that provides developer and operational tools. It extends Kubernetes by adding features such as a web console, monitoring, logging, and more.
 * **[Nomad](https://www.nomadproject.io/)** (Open Source & Enterprise): Nomad is a flexible and easy-to-use orchestrator to deploy and manage containers and non-containerized applications. It integrates seamlessly with popular DevOps tools and provides a lightweight solution for container orchestration.
 * **[k3s](https://k3s.io/)** (Open Source): k3s is a certified Kubernetes distribution which is highly available and designed for resource-constrained production workloads.
+* **[Easypanel](https://easypanel.io/)** (Proprietary, Free & Paid): A self-hosted deployment platform for applications, databases, Docker images, and Docker Compose projects on your own server, with Git deployments, automatic SSL, and browser-based logs and shell access.
 
 ## Container Autoscaling and Load Balancing
 
