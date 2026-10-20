@@ -293,6 +293,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 * **[Sumologic](https://www.sumologic.com/)** (Enterprise): A cloud-native, machine data analytics platform that delivers real-time, continuous intelligence.
 * **[Dynatrace](https://www.dynatrace.com/)** (Enterprise): An AI-powered, full-stack, automated performance management solution.
 * **[HolmesGPT](https://github.com/robusta-dev/holmesgpt)** (Open Source): An Open Source alert investigation assistant capable of solving alerts like a human. Works with Prometheus alerts, Jira tickets and more.
+* **[WatchCron](https://watchcron.com/)** (Free & Enterprise): A cron job monitoring service that alerts when scheduled tasks fail, run late, or stop running. Simple integration with one HTTP ping per job.
 
 ## Visualization Tools
 
